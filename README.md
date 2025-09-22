@@ -17,7 +17,7 @@
 
 ## 📫 Connect with Me  
 - [https://www.linkedin.com/in/khandekar-afrin-alam-693846330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
-- [khandekarafrin7786](#)  
+- [KhandekarAfrin](#)  
 
 ---
 ✨ *This README is a little glimpse into my coding journey. Always open to learning and collaborating!*  
